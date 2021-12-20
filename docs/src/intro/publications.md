@@ -54,6 +54,10 @@ Hydrometeorological multi-model ensemble simulations of the 4 November 2011 flas
 event in Genoa, Italy, in the framework of the DRIHM project. Nat. Hazards Earth Syst. Sci.
 15, 537–555. <https://doi:10.5194/nhess-15-537-2015>.
 
+Hagen, J.S., A. Cutler, P. Trambauer, A. Weerts, P. Suarez, D. Solomatine, Development 
+And evaluation of flood forecasting models for forecast-based financing using a novel 
+model suitability matrix, Progress in Disaster Science, 6, doi: 10.1016/j.pdisas.2020.100076.
+
 Hassaballah, K., Mohamed, Y., Uhlenbrook, S., Biro, K., 2017. Analysis of streamflow
 response to land use land cover changes using satellite data and hydrological modelling:
 case study of Dinder and Rahad tributaries of the Blue Nile. Hydrol. Earth Syst. Sci.
@@ -91,10 +95,18 @@ Rakovec, O., Weerts, A.H., Sumihar, J., Uijlenhoet, R., 2015. Operational aspect
 asynchronous filtering for flood forecasting. Hydrol. Earth Syst. Sci., 19, 2911–2924,
 <https://doi.org/10.5194/hess-19-2911-2015>.
 
+Rusli,S., A.H. Weerts, A. Taufiq, V. Bense, 2021. Estimating water balance components and 
+their uncertainty bounds in highly groundwater-dependent and data-scarce area: 
+An example for the Upper Citarum basin, J. Hydrol. Regional Studies, doi: 10.1016/j.ejrh.2021.100911.
+
 Schaller, N., Sillmann, J., Müller, M., Haarsma, R., Hazeleger, W., Hegdahl, T.J., Kelder,
 T., van den Oord, G., Weerts, A., Whan, K., 2020. The role of spatial and temporal model
 resolution in a flood event storyline approach in western Norway. Weather and Climate
 Extremes, doi: <https://doi.org/10.1016/j.wace.2020.100259>.
+
+Sperna Weiland, F.C.,  R.D. Visser, P. Greve, B. Bisselink, L. Brunner and A.H. Weerts, 2021. Estimating 
+Regionalized Hydrological Impacts of Climate Change Over Europe by Performance-Based Weighting of 
+CORDEX Projections, Frontiers of Water, 10.3389/frwa.2021.713537.
 
 Tangdamrongsub, N., Steele-Dunne, S.C., Gunter, B.C., Ditmar, P.G., Weerts, A.H., 2015. Data
 assimilation of GRACE terrestrial water storage estimates into a regional hydrological model
@@ -121,7 +133,7 @@ indicators with combination of process-based models and data assimilation techni
 Ecological Indicators 66, 428–439. <https://doi:10.1016/j.ecolind.2016.02.016>.
 
 
-## Theses
+## Theses & Internship reports
 
 Arnal, L., 2014. An intercomparison of flood forecasting models for the Meuse River basin,
 MSc. Thesis, Vrije Universiteit, Amsterdam. <https://hal.inrae.fr/hal-02600749>.
@@ -132,13 +144,27 @@ Vrije Universiteit Amsterdam, Faculty of Science, Hydrology.
 Azadeh Karami Fard, 2015. Modeling runoff of an Ethiopian catchment with WFLOW, MSc. Thesis,
 Vrije Universiteit, Amsterdam.
 
+Beusen, B., 2021. The effect of rooting depth on discharge and evapotranspiration in (semi-)arid areas, 
+MSc Thesis, HWM, Wageningen University.
+
+Beusen, B., 2021. Plastic transport and the eect of climate change in the Rhine, Internship report Deltares.
+
+Hagen, J. 2020. Developing Data-Driven, Hydrological and Hybrid Models to Generate Flood Forecasts for 
+Forecast-Based Financing, MSc thesis IHE UNESCO, Delft.
+
 López López, P., 2018. Application of Global Hydrological Datasets for River Basin Modelling
 Utrecht University, Utrecht, the Netherlands, pp. 1-214, Doctoral dissertation.
 <http://dspace.library.uu.nl/handle/1874/364148>.
 
+Keppler, R., 2021. Data assimilation of stream ow into a distributed hydrological model 
+using ConvLSTM, MSc thesis, Wageningen University.
+
 Maat, W.H., 2015. Simulating discharges and forecasting floods using a conceptual
 rainfall-runoff model for the Bolivian Mamoré basin, MSc. Thesis, University of Twente,
 Enschede. <https://essay.utwente.nl/67046/>.
+
+Oostveen, N., 2020. Hydrological modelling of the Meuse catchment at various resolutions using 
+wflow_sbm in combination with pedo transfer functions, Internship report Deltares.
 
 van Osnabrugge, B., 2020. Interpolate, simulate, assimilate: operational aspects of
 improving hydrological forecasts in the Rhine basin. Wageningen University.
@@ -151,8 +177,19 @@ Tretjakova, D., 2015. Investigating the effect of using fully-distributed model 
 assimilation on the performance of hydrological forecasting in the Karasu catchment, Turkey,
 MSc thesis, Wageningen University.
 
+Vega Briones, J., 2020. High-Resolution satellite surface soil moisture and discharge statistical 
+analysis with wflow_sbm to assess data assimilation, MSc thesis, Wageningen University.
+
 Verbrugge, M., 2019. Reservoir Operation Optimization, a case study in the Chao Phraya
 Basin, BSc thesis, Hydrology and Quantitative Water Management Group, Wageningen University.
+
+Viguures, P. 2020. Modelling of flash floods in current and future climate with high resolution convection
+permitting regional climate models in the European Alps, MSc Thesis, Wageningen University.
+
+Villareal Jaime , D.E., 2021. Ensemble hydrological forecasts to derive extreme return periods:
+Case Study of the Overijsselse Vecht River using the wflow_sbm model, MSc thesis, IHE UNESCO, Delft.
+
+Visser, B. 2020. Impact of climate change on local water resources of European catchments, Intersnhip report, Deltares, 2020
 
 ## Reports
 
