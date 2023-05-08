@@ -114,6 +114,11 @@ Rakovec, O., Weerts, A.H., Sumihar, J., Uijlenhoet, R., 2015. Operational aspect
 asynchronous filtering for flood forecasting. Hydrol. Earth Syst. Sci., 19, 2911–2924,
 <https://doi.org/10.5194/hess-19-2911-2015>.
 
+Rusli, S.R., Bense, V.F., Taufiq, A., Weerts, A.H., 2023. Quantifying basin-scale changes in 
+groundwater storage using GRACE and one-way coupled hydrological and groundwater flow model 
+in the data-scarce Bandung groundwater basin, Indonesia, Groundwater for Sustainable 
+Development, doi: https://doi.org/10.1016/j.gsd.2023.100953.
+
 Rusli,S., A.H. Weerts, A. Taufiq, V. Bense, 2021. Estimating water balance components and
 their uncertainty bounds in highly groundwater-dependent and data-scarce area: An example
 for the Upper Citarum basin, J. Hydrol. Regional Studies,
