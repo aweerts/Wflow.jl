@@ -82,7 +82,7 @@ locs = "wflow_reservoirlocs"
 | `Δt`             | model time step     | s | - |
 | `volume`             | volume     | m``^3`` | - |
 | `inflow`             | total inflow into reservoir | m``^3`` | - |
-| `outflow`             | outflow into reservoir | m``^3`` s``^{-1}`` | - |
+| `outflow`             | outflow of reservoir | m``^3`` s``^{-1}`` | - |
 | `totaloutflow`        | total outflow into reservoir | m``^3`` | - |
 | `percfull`             | fraction full (of max storage) | - | - |
 | `precipitation`             | average precipitation for reservoir area | mm Δt⁻¹ | - |
