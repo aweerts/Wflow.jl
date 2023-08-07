@@ -124,10 +124,9 @@ T., van den Oord, G., Weerts, A., Whan, K., 2020. The role of spatial and tempor
 resolution in a flood event storyline approach in western Norway. Weather and Climate
 Extremes, doi: <https://doi.org/10.1016/j.wace.2020.100259>.
 
-Sperna Weiland, F.C.,  R.D. Visser, P. Greve, B. Bisselink, L. Brunner and A.H. Weerts,
-2021. Estimating Regionalized Hydrological Impacts of Climate Change Over Europe by
-Performance-Based Weighting of CORDEX Projections, Frontiers of Water,
-<https://doi.org/10.3389/frwa.2021.713537>.
+Sperna Weiland, F.C.,  R.D. Visser, P. Greve, B. Bisselink, L. Brunner and A.H. Weerts, 2021. 
+Estimating Regionalized Hydrological Impacts of Climate Change Over Europe by Performance-Based Weighting of CORDEX Projections, 
+Frontiers of Water, <https://doi.org/10.3389/frwa.2021.713537>.
 
 Tangdamrongsub, N., Steele-Dunne, S.C., Gunter, B.C., Ditmar, P.G., Weerts, A.H., 2015. Data
 assimilation of GRACE terrestrial water storage estimates into a regional hydrological model
